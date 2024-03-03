@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tomatophobia/tomatophobia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomatophobia&layout=compact)](https://github.com/tomatophobia/github-readme-stats)
+
+### Latest Posts
+- [Armeria는 어떻게 gRPC를 HTTP/1.1에서 사용할까?](https://easywritten.com/post/how-does-armeria-use-grpc-over-http-1/)
+- [Armeria에서 request scoping을 쉽게 사용하는 방법](https://easywritten.com/post/an-easy-way-to-use-request-scoping-in-armeria/)
+- [Spring WebFlux와 Reactor에서 디버깅하는 방법 3가지](https://easywritten.com/post/how-to-debug-spring-webflux-and-reactor/)
+- [Armeria의 request scoping과 leak 탐지](https://easywritten.com/post/request-scoping-of-armeria/)
+- [ExecutorService graceful shutdown의 정석은?](https://easywritten.com/post/best-way-to-shutdown-executor-service-in-java/)
