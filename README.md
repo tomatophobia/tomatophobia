@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - [Kotlin JPA의 Entity에 val 필드를 사용해도 될까?](https://easywritten.com/post/is-it-okay-to-use-a-val-field-in-a-kotlin-jpa-entity/)
 - [Armeria는 어떻게 gRPC를 HTTP/1.1에서 사용할까?](https://easywritten.com/post/how-does-armeria-use-grpc-over-http-1/)
 - [Armeria에서 request scoping을 쉽게 사용하는 방법](https://easywritten.com/post/an-easy-way-to-use-request-scoping-in-armeria/)
-- [Spring WebFlux와 Reactor에서 디버깅하는 방법 3가지](https://easywritten.com/post/how-to-debug-spring-webflux-and-reactor/)
 - [Armeria의 request scoping과 leak 탐지](https://easywritten.com/post/request-scoping-of-armeria/)
 - [ExecutorService graceful shutdown의 정석은?](https://easywritten.com/post/best-way-to-shutdown-executor-service-in-java/)
+- [Spring Boot 3에서 Zipkin 사용하기](https://easywritten.com/post/using-spring-boot-3-with-zipkin/)
 
 ## Contributions
 ### [Armeria](https://github.com/line/armeria)
