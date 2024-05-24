@@ -30,5 +30,3 @@ Here are some ideas to get you started:
 - [Add documentation about FlagsProvider #4870](https://github.com/line/armeria/pull/4870)
 - [Add documentation for timeout at the server side #4860](https://github.com/line/armeria/pull/4860)
 - [Fix a typo of grpc tutorials #4638](https://github.com/line/armeria/pull/4638)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomatophobia&layout=compact)](https://github.com/tomatophobia/github-readme-stats)
