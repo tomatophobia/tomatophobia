@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ## Latest Posts
-- [Kotlin JPA의 Entity에 val 필드를 사용해도 될까?](https://easywritten.com/post/is-it-okay-to-use-a-val-field-in-a-kotlin-jpa-entity/)
-- [Armeria는 어떻게 gRPC를 HTTP/1.1에서 사용할까?](https://easywritten.com/post/how-does-armeria-use-grpc-over-http-1/)
-- [Armeria에서 request scoping을 쉽게 사용하는 방법](https://easywritten.com/post/an-easy-way-to-use-request-scoping-in-armeria/)
-- [Armeria의 request scoping과 leak 탐지](https://easywritten.com/post/request-scoping-of-armeria/)
-- [ExecutorService graceful shutdown의 정석은?](https://easywritten.com/post/best-way-to-shutdown-executor-service-in-java/)
-- [Spring Boot 3에서 Zipkin 사용하기](https://easywritten.com/post/using-spring-boot-3-with-zipkin/)
+- [그래서 모나드가 뭔데? 타입 확장과 함수 합성의 관점에서 바라보기](https://easywritten.tistory.com/29)
+- [Kotlin JPA의 Entity에 val 필드를 사용해도 될까?](https://easywritten.tistory.com/28)
+- [Armeria는 어떻게 gRPC를 HTTP/1.1에서 사용할까?](https://easywritten.tistory.com/26)
+- [Armeria에서 request scoping을 쉽게 사용하는 방법](https://easywritten.tistory.com/25)
+- [Armeria의 request scoping과 leak 탐지](https://easywritten.tistory.com/23)
+- [ExecutorService graceful shutdown의 정석은?](https://easywritten.tistory.com/22)
+- [Spring Boot 3에서 Zipkin 사용하기](https://easywritten.tistory.com/21)
 
 ## Contributions
 ### [Armeria](https://github.com/line/armeria)
